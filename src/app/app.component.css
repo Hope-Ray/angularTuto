@@ -1,1 +1,7 @@
-/*# sourceMappingURL=app.component.css.map */
+.wrapper {
+  height: auto;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  flex-grow: 1;
+}/*# sourceMappingURL=app.component.css.map */
